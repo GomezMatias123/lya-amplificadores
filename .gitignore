@@ -1,0 +1,21 @@
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*~
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Imágenes pesadas sin optimizar (opcional, descomentar si querés)
+# img/raw/
+# img/*.psd
